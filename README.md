@@ -10,13 +10,17 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cashewwnutz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cashewwnutz" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/chiragarora2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiragarora2002" height="30" width="40" /></a>
 
     
 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CHIRAGGARORA&theme=highcontrast&show_icons=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CHIRAGGARORA&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
